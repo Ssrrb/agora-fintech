@@ -1,1 +1,1 @@
-# Descripcion completa del servicio
+# Descripcion completa detallada del servicio
