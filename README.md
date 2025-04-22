@@ -1,5 +1,5 @@
 # agora-fintech
-Unicorn Startup 
+Unicorn Startup - Architecture
 
 ## Tech Stacks
 ### Front-End
@@ -14,6 +14,7 @@ Unicorn Startup
 
 ### Back-End
 - Python 
+- FastAPI
 
 ### Blockchain
 - Pending...
