@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import "../globals.css";
+import "@/app/globals.css";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -30,11 +30,8 @@ export default function AuthLayout({
       >
         <header className="flex justify-center items-center p-4 gap-4 h-16">
           {" "}
-          {/* Header with fixed height*/}
-          <div className="flex gap-4"></div>
         </header>
-        <main className="flex-1 flex flex-col items-center justify-center">
-          {/* Main content with flexbox for centering */}
+        <main>
           {children}
         </main>
       </body>
