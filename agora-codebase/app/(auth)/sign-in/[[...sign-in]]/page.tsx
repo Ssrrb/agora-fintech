@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Page() {
   return (
-    <main className="min-h-screen w-full">
+    <main className="w-full">
       <div className="grid min-h-screen grid-cols-1 lg:grid-cols-2">
         {/* Left column - Sign in */}
         <div className="flex flex-col items-center justify-center px-4 sm:px-6 lg:px-8">
@@ -19,7 +19,7 @@ export default function Page() {
             </div>
             <div className="mt-8">
               <ClerkLoaded>
-                <SignIn path="/sign-in" routing="path" signUpUrl="/sign-up" />
+                <SignIn path="/sign-in" />
               </ClerkLoaded>
               <ClerkLoading>
                 <div className="flex justify-center">
