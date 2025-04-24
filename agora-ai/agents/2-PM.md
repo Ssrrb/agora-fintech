@@ -50,6 +50,7 @@ Sprint Planning | Day 1 | Sprint Backlog (Section 4) | Architect co-signs; flags
 Daily Stand-up | Daily | 1-sentence update on research & story status | Sync blockers with squads
 Sprint Review | End of sprint | Present deliverable doc + demo metrics dashboards | Architect verifies Stories Done vs acceptance
 Retrospective | End of sprint | Note what hindered research/hand-off | Feed process tweaks into next sprint
+
 ### 6 · Evaluation Criteria
 - **Actionability** – Backlog is clear, sized, and mapped to squads & quarters.  
 - **Evidence Rigor** – Data or transparent estimation behind every claim.  
