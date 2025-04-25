@@ -1,4 +1,3 @@
-Okay, let's define the precise requirements for the Agora "Wallet-less Onboarding + Gas-Sponsored Trades" Proof of Concept (PoC) MVP.
 
 **Document Title:** Agora PoC MVP Requirements: Asset Purchase & RAT Minting
 
@@ -185,3 +184,5 @@ sequenceDiagram
 **8. Communication**
 
 This document outlines the minimal requirements for the Agora PoC MVP focused on demonstrating the core purchase-to-minting loop with wallet-less onboarding and gas sponsorship. It defines the essential features, process flow, integration points, smart contract needs, acceptance criteria, and risks specifically for this PoC build. This should serve as the primary input for the Product Manager, Architect, and Product Owner to scope and plan the development sprints for this specific initiative. Future features and complexities are explicitly deferred.
+
+

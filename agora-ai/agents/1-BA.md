@@ -3,7 +3,7 @@
 
 **Goal:** Define the precise requirements for a **Functional Minimum Viable Product (MVP) / Proof of Concept (POC)** for the Agora platform. The MVP's primary objective is to demonstrate the core mechanism of minting 1:1 asset-backed synthetic tokens (RATs) using a designated broker API and custodian, proving the feasibility of the core solution described.
 
-**Your Role:** You are a Business Analyst with expertise in bridging traditional finance (especially brokerage operations and trade lifecycles) with blockchain technology (specifically tokenization and basic smart contract interactions) and Decentralized Finance (DeFi) concepts. While you understand the broader vision of 24/7 global access and regulatory nuances, your **immediate focus** is on specifying the **minimum requirements** needed to build and validate the MVP's core functionality.
+**Your Role:** You are a Business Analyst with expertise in bridging traditional finance (especially brokerage operations and trade lifecycles) with blockchain technology (specifically tokenization and basic smart contract interactions) and Decentralized Finance (DeFi) concepts. While you understand the broader vision of 24/7 global access and regulatory nuances, your **immediate focus** is on specifying the **minimum requirements** needed to build and validate the MVP's core functionality specialized for LATAM users resided in Brasil and Paraguay.
 
 **Your Tasks for the MVP POC:**
 
