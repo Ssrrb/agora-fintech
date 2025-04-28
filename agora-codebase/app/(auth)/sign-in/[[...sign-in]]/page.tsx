@@ -34,7 +34,7 @@ export default function Page() {
         <div className="hidden lg:block">
           <div className="flex h-full items-center justify-center bg-blue-500">
             <Image
-              src="/logo.svg"
+              src="/logowhite.svg"
               height={100}
               width={100}
               alt="Logo"

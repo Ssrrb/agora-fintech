@@ -1,20 +1,11 @@
-export const Header =() => {
-    return (
-        <header className="bg-gradient-to-b  from-blue-700 to-blue-500 px-4 py-8 lg:px-14 pb-36 justify-between p-4 text-white">
-        <div className="text-lg font-bold">My App</div>
-        <nav>
-            <ul className="flex space-x-4">
-            <li>
-                <a href="/" className="hover:text-gray-400">Home</a>
-            </li>
-            <li>
-                <a href="/about" className="hover:text-gray-400">About</a>
-            </li>
-            <li>
-                <a href="/contact" className="hover:text-gray-400">Contact</a>
-            </li>
-            </ul>
-        </nav>
-        </header>
-    );
-}
+import HeaderLogo from "@/components/header-logo";
+import { Navigation } from "@/components/navigation";
+
+export const Header = () => (
+  <header className="bg-gradient-to-b from-blue-700 to-blue-500 text-white px-4 sm:px-8 lg:px-14 py-6">
+    <div className="mx-auto max-w-screen-xl flex items-center justify-between">
+      <HeaderLogo />
+      <Navigation />
+    </div>
+  </header>
+);
