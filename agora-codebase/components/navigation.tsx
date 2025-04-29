@@ -1,7 +1,7 @@
 "use client";
 import { usePathname } from "next/navigation";
 import { NavButton } from "@/components/ui/nav-button";
-import { Home, Info, Settings } from "lucide-react";
+import { ChartBarIcon, Info, Settings } from "lucide-react";
 import {Sheet} from "@/components/ui/sheet";
 import { useMedia } from "react-use";
 
@@ -9,9 +9,9 @@ import { useMedia } from "react-use";
 
 const routes = [
   {
-    href: "/",
-    label: "Home",
-    icon: <Home className="w-4 h-4" />
+    href: "/markets",
+    label: "Mercados",
+    icon: <ChartBarIcon className="w-4 h-4" />
   },
   {
     href: "/dashboard",
@@ -20,7 +20,7 @@ const routes = [
   },
   {
     href: "/settings",
-    label: "Settings",
+    label: "Configuración",
     icon: <Settings className="w-4 h-4" />
   }
 ];

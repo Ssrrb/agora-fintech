@@ -37,7 +37,7 @@ The workflow follows **Agile methodology** principles, organized in the followin
 ## Scope of This Workflow
 
 - **Frontend and Backend Development:**  
-  This workflow structure will be applied consistently across both frontend and backend development streams.
+  This workflow structure will be applied consistently across both frontend and backend development streams, the objective is to start building the front-end.
 
 - **Blockchain Development:**  
   Blockchain architecture and smart contract development will follow a **separate, dedicated workflow** tailored to its specific needs.
